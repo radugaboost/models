@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>2023-09-10 01:02:48.449955.jpg</filename>
+	<path>/home/daniil/Документы/panocam_test/dataset/2023-09-10 01:02:48.449955.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human on a scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>18</ymin>
+			<xmax>300</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

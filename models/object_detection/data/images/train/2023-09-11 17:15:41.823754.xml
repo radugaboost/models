@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_data</folder>
+	<filename>2023-09-11 17:15:41.823754.jpg</filename>
+	<path>/home/daniil/Документы/panocam_test/train_data/2023-09-11 17:15:41.823754.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human on a scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>19</ymin>
+			<xmax>144</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human on a scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>97</ymin>
+			<xmax>174</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
